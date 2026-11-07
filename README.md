@@ -19,4 +19,4 @@ Lampu jalan menyala otomatis saat gelap (LDR < 50). Jika ada orang atau kendaraa
    java Main
    ```
 ## Screenshot Output
-![Output](output_program.png)
+![Output](output_project.png)
